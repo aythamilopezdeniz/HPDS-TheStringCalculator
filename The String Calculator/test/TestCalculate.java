@@ -95,4 +95,12 @@ public class TestCalculate {
     public void decimalBaseZeroReturnPower() {
         assertEquals(calculator.calculatePower("0.01,3"), 0);
     }
+
+    public void numberReturnRoot() {
+        assertEquals(calculator.calculateRoot("2,4"), 2);
+    }
+
+    public void decimalNumberReturnRoot() {
+        assertEquals(calculator.calculateRoot("2,1.9"), 1.38);
+    }
 }

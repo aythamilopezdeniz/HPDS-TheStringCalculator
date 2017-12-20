@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1f1f92f5-5f72-4ac3-98d1-deff59591dbc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/test/The String Calculator/Calculator.class" afterPath="$PROJECT_DIR$/out/test/The String Calculator/Calculator.class" />
-      <change beforePath="$PROJECT_DIR$/out/test/The String Calculator/TestCalculate.class" afterPath="$PROJECT_DIR$/out/test/The String Calculator/TestCalculate.class" />
       <change beforePath="$PROJECT_DIR$/test/Calculator.java" afterPath="$PROJECT_DIR$/test/Calculator.java" />
       <change beforePath="$PROJECT_DIR$/test/TestCalculate.java" afterPath="$PROJECT_DIR$/test/TestCalculate.java" />
     </list>
@@ -21,8 +19,8 @@
       <file leaf-file-name="TestCalculate.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/TestCalculate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="95" column="59" lean-forward="false" selection-start-line="95" selection-start-column="59" selection-end-line="95" selection-end-column="59" />
+            <state relative-caret-position="2266">
+              <caret line="103" column="49" lean-forward="false" selection-start-line="103" selection-start-column="49" selection-end-line="103" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#249#250#0" expanded="true" />
@@ -51,6 +49,10 @@
                 <element signature="e#2807#2808#0" expanded="true" />
                 <element signature="e#2855#2856#0" expanded="true" />
                 <element signature="e#2923#2924#0" expanded="true" />
+                <element signature="e#2961#2962#0" expanded="true" />
+                <element signature="e#3025#3026#0" expanded="true" />
+                <element signature="e#3070#3071#0" expanded="true" />
+                <element signature="e#3139#3140#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,8 +61,8 @@
       <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="93" column="12" lean-forward="false" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+            <state relative-caret-position="21">
+              <caret line="88" column="38" lean-forward="false" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="38" />
               <folding>
                 <element signature="e#1030#1031#0" expanded="true" />
                 <element signature="e#1068#1069#0" expanded="true" />
@@ -97,8 +99,8 @@
         <option value="$PROJECT_DIR$/src/test/TestCalculate.java" />
         <option value="$PROJECT_DIR$/Test/Calculator.java" />
         <option value="$PROJECT_DIR$/Test/TestCalculate.java" />
-        <option value="$PROJECT_DIR$/test/Calculator.java" />
         <option value="$PROJECT_DIR$/test/TestCalculate.java" />
+        <option value="$PROJECT_DIR$/test/Calculator.java" />
       </list>
     </option>
   </component>
@@ -309,24 +311,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCalculate - 2017.12.20 at 16h 11m 59s.xml">
-      <configuration name="TestCalculate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestCalculate - 2017.12.20 at 16h 13m 31s.xml">
-      <configuration name="TestCalculate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestCalculate - 2017.12.20 at 16h 15m 05s.xml">
-      <configuration name="TestCalculate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestCalculate - 2017.12.20 at 16h 15m 18s.xml">
-      <configuration name="TestCalculate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestCalculate - 2017.12.20 at 16h 16m 21s.xml">
-      <configuration name="TestCalculate" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestCalculate - 2017.12.20 at 16h 16m 47s.xml">
-      <configuration name="TestCalculate" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestCalculate - 2017.12.20 at 16h 17m 47s.xml">
       <configuration name="TestCalculate" configurationId="TestNG" />
     </history-entry>
@@ -337,6 +321,24 @@
       <configuration name="TestCalculate" configurationId="TestNG" />
     </history-entry>
     <history-entry file="TestCalculate - 2017.12.20 at 16h 20m 11s.xml">
+      <configuration name="TestCalculate" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCalculate - 2017.12.20 at 19h 48m 24s.xml">
+      <configuration name="TestCalculate" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCalculate - 2017.12.20 at 19h 50m 22s.xml">
+      <configuration name="TestCalculate" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCalculate - 2017.12.20 at 19h 52m 40s.xml">
+      <configuration name="TestCalculate" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCalculate - 2017.12.20 at 19h 52m 48s.xml">
+      <configuration name="TestCalculate" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCalculate - 2017.12.20 at 19h 53m 33s.xml">
+      <configuration name="TestCalculate" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCalculate - 2017.12.20 at 20h 06m 35s.xml">
       <configuration name="TestCalculate" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -414,6 +416,10 @@
             <element signature="e#2807#2808#0" expanded="true" />
             <element signature="e#2855#2856#0" expanded="true" />
             <element signature="e#2923#2924#0" expanded="true" />
+            <element signature="e#2961#2962#0" expanded="true" />
+            <element signature="e#3025#3026#0" expanded="true" />
+            <element signature="e#3070#3071#0" expanded="true" />
+            <element signature="e#3139#3140#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -465,6 +471,10 @@
             <element signature="e#2807#2808#0" expanded="true" />
             <element signature="e#2855#2856#0" expanded="true" />
             <element signature="e#2923#2924#0" expanded="true" />
+            <element signature="e#2961#2962#0" expanded="true" />
+            <element signature="e#3025#3026#0" expanded="true" />
+            <element signature="e#3070#3071#0" expanded="true" />
+            <element signature="e#3139#3140#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -516,6 +526,10 @@
             <element signature="e#2807#2808#0" expanded="true" />
             <element signature="e#2855#2856#0" expanded="true" />
             <element signature="e#2923#2924#0" expanded="true" />
+            <element signature="e#2961#2962#0" expanded="true" />
+            <element signature="e#3025#3026#0" expanded="true" />
+            <element signature="e#3070#3071#0" expanded="true" />
+            <element signature="e#3139#3140#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -567,6 +581,10 @@
             <element signature="e#2807#2808#0" expanded="true" />
             <element signature="e#2855#2856#0" expanded="true" />
             <element signature="e#2923#2924#0" expanded="true" />
+            <element signature="e#2961#2962#0" expanded="true" />
+            <element signature="e#3025#3026#0" expanded="true" />
+            <element signature="e#3070#3071#0" expanded="true" />
+            <element signature="e#3139#3140#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -618,6 +636,10 @@
             <element signature="e#2807#2808#0" expanded="true" />
             <element signature="e#2855#2856#0" expanded="true" />
             <element signature="e#2923#2924#0" expanded="true" />
+            <element signature="e#2961#2962#0" expanded="true" />
+            <element signature="e#3025#3026#0" expanded="true" />
+            <element signature="e#3070#3071#0" expanded="true" />
+            <element signature="e#3139#3140#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -669,6 +691,10 @@
             <element signature="e#2807#2808#0" expanded="true" />
             <element signature="e#2855#2856#0" expanded="true" />
             <element signature="e#2923#2924#0" expanded="true" />
+            <element signature="e#2961#2962#0" expanded="true" />
+            <element signature="e#3025#3026#0" expanded="true" />
+            <element signature="e#3070#3071#0" expanded="true" />
+            <element signature="e#3139#3140#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -704,8 +730,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="93" column="12" lean-forward="false" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+        <state relative-caret-position="21">
+          <caret line="88" column="38" lean-forward="false" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="38" />
           <folding>
             <element signature="e#1030#1031#0" expanded="true" />
             <element signature="e#1068#1069#0" expanded="true" />
@@ -719,8 +745,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/TestCalculate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="95" column="59" lean-forward="false" selection-start-line="95" selection-start-column="59" selection-end-line="95" selection-end-column="59" />
+        <state relative-caret-position="2266">
+          <caret line="103" column="49" lean-forward="false" selection-start-line="103" selection-start-column="49" selection-end-line="103" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#249#250#0" expanded="true" />
@@ -749,6 +775,10 @@
             <element signature="e#2807#2808#0" expanded="true" />
             <element signature="e#2855#2856#0" expanded="true" />
             <element signature="e#2923#2924#0" expanded="true" />
+            <element signature="e#2961#2962#0" expanded="true" />
+            <element signature="e#3025#3026#0" expanded="true" />
+            <element signature="e#3070#3071#0" expanded="true" />
+            <element signature="e#3139#3140#0" expanded="true" />
           </folding>
         </state>
       </provider>

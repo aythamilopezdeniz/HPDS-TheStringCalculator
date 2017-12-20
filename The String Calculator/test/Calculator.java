@@ -86,12 +86,23 @@ public class Calculator {
         String[] numbers = number.split(delimiter);
         if (isEmpty(number))
             return 0;
-        if (numbers[1].equals(0))
+        if (stringToDouble(numbers[1]) == 0)
             return 1;
         return power(numbers);
     }
 
     private double power(String[] numbers) {
         return roundNumber(Math.pow(stringToDouble(numbers[0]), stringToDouble(numbers[1])));
+    }
+
+    public double calculateRoot(String number) {
+        String[] numbers = number.split(delimiter);
+        if(isEmpty(number))
+            return 0;
+        return root(numbers);
+    }
+
+    private double root(String[] numbers) {
+        return roundNumber(Math.pow(stringToDouble(numbers[1]), 1/stringToDouble(numbers[0])));
     }
 }
